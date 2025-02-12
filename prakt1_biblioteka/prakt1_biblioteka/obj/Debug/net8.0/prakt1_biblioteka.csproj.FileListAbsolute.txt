@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\bin\Debug\net8.0\prakt1_biblioteka.exe
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\bin\Debug\net8.0\prakt1_biblioteka.deps.json
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\bin\Debug\net8.0\prakt1_biblioteka.runtimeconfig.json
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\bin\Debug\net8.0\prakt1_biblioteka.dll
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\bin\Debug\net8.0\prakt1_biblioteka.pdb
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\obj\Debug\net8.0\prakt1_biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\obj\Debug\net8.0\prakt1_biblioteka.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\obj\Debug\net8.0\prakt1_biblioteka.AssemblyInfo.cs
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\obj\Debug\net8.0\prakt1_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\obj\Debug\net8.0\prakt1_biblioteka.dll
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\obj\Debug\net8.0\refint\prakt1_biblioteka.dll
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\obj\Debug\net8.0\prakt1_biblioteka.pdb
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\obj\Debug\net8.0\prakt1_biblioteka.genruntimeconfig.cache
+C:\Users\Admin\source\repos\prakt1_biblioteka\prakt1_biblioteka\obj\Debug\net8.0\ref\prakt1_biblioteka.dll
